@@ -1,0 +1,26 @@
+body {
+    height: 100%;
+    width: 100%;
+}
+
+.hero-image {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./images/business-idea-1240834__340.webp);
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.hero-text {
+    position: absolute;
+    text-align: center;
+    color: white;
+    margin-left: 40%;
+    margin-top: 40px;
+    border: 4px solid white;
+}
+
+li {
+    text-decoration: none;
+}

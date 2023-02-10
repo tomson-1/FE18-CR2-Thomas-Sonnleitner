@@ -1,0 +1,37 @@
+let task = `[{"pic": "https://cdn.pixabay.com/photo/2016/05/09/10/42/weimaraner-1381186__340.jpg",
+"task": "Take the dog for a walk",
+"detail": "Go out for 30 minutes",
+"prio": 0
+},{"pic": "https://cdn.pixabay.com/photo/2020/07/21/15/21/pot-bellied-pig-5426552__340.jpg",
+"task": "Take the housepig for a walk",
+"detail": "Go out for 20 minutes",
+"prio": 0
+},{"pic": "https://cdn.pixabay.com/photo/2016/11/29/09/43/koi-fish-1868779__340.jpg",
+"task": "Feed the fishes",
+"detail": "Dont forget the mineralpellets",
+"prio": 0
+},{"pic": "https://cdn.pixabay.com/photo/2014/09/05/18/32/old-books-436498__340.jpg",
+"task": "Take the dog for a walk",
+"detail": "Go out for 30 minutes",
+"prio": 0
+},{"pic": "https://cdn.pixabay.com/photo/2014/09/05/18/32/old-books-436498__340.jpg",
+"task": "Take the dog for a walk",
+"detail": "Go out for 30 minutes",
+"prio": 0
+},{"pic": "https://cdn.pixabay.com/photo/2014/09/05/18/32/old-books-436498__340.jpg",
+"task": "Take the dog for a walk",
+"detail": "Go out for 30 minutes",
+"prio": 0
+},{"pic": "https://cdn.pixabay.com/photo/2014/09/05/18/32/old-books-436498__340.jpg",
+"task": "Take the dog for a walk",
+"detail": "Go out for 30 minutes",
+"prio": 0
+},{"pic": "https://cdn.pixabay.com/photo/2014/09/05/18/32/old-books-436498__340.jpg",
+"task": "Take the dog for a walk",
+"detail": "Go out for 30 minutes",
+"prio": 0
+},{"pic": "https://cdn.pixabay.com/photo/2014/09/05/18/32/old-books-436498__340.jpg",
+"task": "Take the dog for a walk",
+"detail": "Go out for 30 minutes",
+"prio": 0
+}]`
