@@ -4,7 +4,7 @@ let task = `[{"pic": "https://cdn.pixabay.com/photo/2016/05/09/10/42/weimaraner-
 "time": "Deadline 18.02.2023",
 "prio": 0
 },{"pic": "https://cdn.pixabay.com/photo/2020/07/21/15/21/pot-bellied-pig-5426552__340.jpg",
-"task": "Take the housepig for a walk",
+"task": "Walk with the housepig",
 "detail": "Go out for 20 minutes",
 "time": "Deadline 15.02.2023",
 "prio": 0
@@ -28,7 +28,7 @@ let task = `[{"pic": "https://cdn.pixabay.com/photo/2016/05/09/10/42/weimaraner-
 "detail": "Make some pancakes",
 "time": "Deadline 11.03.2023",
 "prio": 0
-},{"pic": "https://cdn.pixabay.com/photo/2016/03/27/18/54/technology-1283624__340.jpg",
+},{"pic": "https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406__340.jpg",
 "task": "Coding",
 "detail": "Happy Coding",
 "time": "Deadline 15.03.2023",
@@ -40,7 +40,7 @@ let task = `[{"pic": "https://cdn.pixabay.com/photo/2016/05/09/10/42/weimaraner-
 "prio": 0
 },{"pic": "https://cdn.pixabay.com/photo/2018/01/28/14/06/travel-3113734__340.jpg",
 "task": "Dinner for 2",
-"detail": "Time to relax after the Codereview ,P",
+"detail": "Time to relax after the Codereview",
 "time": "Deadline 10.02.2023",
 "prio": 0
 }]`

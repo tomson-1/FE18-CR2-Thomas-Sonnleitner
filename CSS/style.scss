@@ -1,11 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    // width: 100%;
+}
+
 body {
     height: 100%;
     width: 100%;
+    row-gap: 1em;
+    column-gap: 1em;
 }
 
 .hero-image {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/business-idea-1240834__340.webp);
-    height: 400px;
+    height: 25em;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -23,4 +32,31 @@ body {
 
 li {
     text-decoration: none;
+}
+
+.container div {
+    box-sizing: border-box;
+    // display: grid;
+    // width: 100%;
+    // column-gap: 1em;
+    row-gap: 1em;
+    padding-top: 15px;
+}
+
+// .footer div {
+//     justify-content: center;
+//     text-align: center;
+// }
+@media screen and (min-width: 480px) and (max-width: 1023px) {
+    .container {
+        grid-template-rows: repeat(5, 1fr);
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media screen and (max-width: 479px) {
+    .container {
+        grid-template-rows: repeat(9, 1fr);
+        grid-template-columns: 1fr;
+    }
 }
