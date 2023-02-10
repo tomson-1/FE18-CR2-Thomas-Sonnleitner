@@ -9,6 +9,7 @@ for (let val of mytask) { document.getElementById("result").innerHTML += `
 <p class="btn btn-outline-dark prio">Priority Level<p button type="button" class="btn btn-success test">${val.prio}</button> </p> </p>
   <h5 class="card-title">${val.task}</h5>
   <p class="detail">${val.detail}</p>
+  <p class="detail">${val.time}</p>
 <p class="btn btn-danger delete">Delete!</p>
 <p class="btn btn-success done">Done</p>
 </div>
