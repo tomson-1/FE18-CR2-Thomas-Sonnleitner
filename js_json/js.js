@@ -3,7 +3,7 @@ console.log(mytask);
 
 for (let val of mytask) { document.getElementById("result").innerHTML += `
 <div>
-<div class="card" style="width: 18rem;">
+<div class="card" style="width: 100%;">
 <img src="${val.pic}" class="card-img-top" alt="${val.task}">
 <div class="card-body">
 <p class="btn btn-outline-dark prio">Priority Level<p button type="button" class="btn btn-success test">${val.prio}</button> </p> </p>
