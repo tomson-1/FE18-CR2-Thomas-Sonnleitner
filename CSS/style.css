@@ -40,15 +40,15 @@ li {
   padding-top: 15px;
 }
 
-@media screen and (min-width: 480px) and (max-width: 1023px) {
-  .container {
-    grid-template-rows: repeat(5, 1fr);
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
 @media screen and (max-width: 479px) {
   .container {
     grid-template-rows: repeat(9, 1fr);
     grid-template-columns: 1fr;
+  }
+}
+@media screen and (min-width: 480px) and (max-width: 1023px) {
+  .container {
+    grid-template-rows: repeat(5, 1fr);
+    grid-template-columns: repeat(2, 1fr);
   }
 }/*# sourceMappingURL=style.css.map */
